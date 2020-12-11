@@ -1,2 +1,3 @@
 # sql-ex.ru
-sql-ex.ru решения задач
+SQL exercises solutions
+only russian comments
